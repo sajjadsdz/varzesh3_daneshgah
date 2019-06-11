@@ -1,0 +1,9 @@
+.owl-stage-outer.owl-item {
+    width: 521px;
+}
+
+.owl-stage-outer.owl-stage {
+    width: 7815px;
+    transform: translate3d(2605px, 0px, 0px);
+    transition: all 0.3s ease 0s;
+}

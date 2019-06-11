@@ -1,0 +1,125 @@
+/* 
+footer.page-footer a, footer.page-footer a:hover {
+  -webkit-transition: color .3s ease;
+  transition: color .3s ease;
+}
+footer.page-footer, footer.page-footer a, footer.page-footer span {
+  font-weight: 400;
+}
+footer .scroll-to-top {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: -100px;
+  height: 39px;
+  margin: auto;
+  position: absolute;
+}
+
+footer.page-footer .side.left .inner {
+  width: 195px;
+}
+
+footer.page-footer .side.left .top {
+  padding-bottom: 15px;
+}
+footer.page-footer .side.left .bordered-bottom {
+  border-bottom: 1px solid #52535b;
+}
+
+
+footer.page-footer .side.left .bottom {
+  padding-top: 15px;
+}
+
+footer.page-footer .side.left .socials .item:first-child {
+  margin-left: 0;
+}
+
+footer.page-footer .side.left .socials .item {
+  margin: 0 7.5px;
+}
+
+footer.page-footer .side.left .socials .item:last-child {
+  margin-right: 0;
+}
+
+footer.page-footer .side.left .socials .item {
+  margin: 0 7.5px;
+}
+
+footer.page-footer ul li a {
+  color: #d6d6d6;
+  font-size: 12px;
+  line-height: 3;
+}
+
+footer.page-footer ul li {
+  list-style: none;
+}
+
+
+footer.page-footer .bottom-area, footer.page-footer .bottom-area a, footer.page-footer .bottom-area span {
+
+  font-size: 11px !important;
+  line-height: 25px !important;
+
+}
+
+footer.page-footer .bottom-area span:first-child {
+
+  margin-left: 16px;
+
+}
+
+footer.page-footer .bottom-area {
+
+  color: #eee;
+
+}
+
+
+
+footer.page-footer {
+  direction: rtl;
+  min-width: 970.2px;
+  margin-top: 16px;
+  font-size: 12px;
+  background-color: #292a31;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+footer.page-footer .top-area {
+  position: relative;
+  padding: 30px 0;
+}
+
+footer.page-footer .color-bar .color-bar--item {
+    height: 3px;
+}
+
+
+.color-bar .color-bar--item {
+  display: block;
+  float: right;
+  width: 20%;
+  height: 2px;
+}
+
+.color-bar .color-bar--item.red {
+  background-color: #e74c3c;
+}
+
+.color-bar .color-bar--item.gray {
+  background-color: #666;
+}
+.color-bar .color-bar--item.blue {
+  background-color: #4285f4;
+}
+.color-bar .color-bar--item.green {
+  background-color: #2ecc71;
+}
+.color-bar .color-bar--item.yellow {
+  background-color: #f1c40f;
+} */
