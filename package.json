@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/react-redux": "^7.0.9",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "jalali-date": "^1.0.2",
     "react": "^16.8.6",
     "react-digital-clock": "^0.1.2",
